@@ -1,0 +1,30 @@
+{
+  "presentationTable" : {
+    "name" : "SALES",
+    "presentationColumns" : [ {
+      "name" : "PROD_ID",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.SALES.PROD_ID"
+    }, {
+      "name" : "CUST_ID",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.SALES.CUST_ID"
+    }, {
+      "name" : "TIME_ID",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.SALES.TIME_ID"
+    }, {
+      "name" : "CHANNEL_ID",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.SALES.CHANNEL_ID"
+    }, {
+      "name" : "PROMO_ID",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.SALES.PROMO_ID"
+    }, {
+      "name" : "QUANTITY_SOLD",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.SALES.QUANTITY_SOLD"
+    }, {
+      "name" : "AMOUNT_SOLD",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.SALES.AMOUNT_SOLD"
+    }, {
+      "name" : "AVERAGE_VALUE",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.SALES.AVERAGE_VALUE"
+    } ]
+  }
+}

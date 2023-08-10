@@ -1,0 +1,21 @@
+{
+  "subjectArea" : {
+    "name" : "Area de Asunto",
+    "sourceBusinessModel" : "businessModel:BusinessModel",
+    "tableOrder" : [ {
+      "name" : "presentationTable:Area de Asunto.CHANNELS"
+    }, {
+      "name" : "presentationTable:Area de Asunto.COUNTRIES"
+    }, {
+      "name" : "presentationTable:Area de Asunto.CUSTOMERS"
+    }, {
+      "name" : "presentationTable:Area de Asunto.PRODUCTS"
+    }, {
+      "name" : "presentationTable:Area de Asunto.PROMOTIONS"
+    }, {
+      "name" : "presentationTable:Area de Asunto.SALES"
+    }, {
+      "name" : "presentationTable:Area de Asunto.TIMES"
+    } ]
+  }
+}
